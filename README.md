@@ -1,0 +1,2 @@
+# Shopping-mall-REDES
+Diseño de una red empresarial con capacidad mínima de 1000 host y al menos 15 departamentos, en la cual se implemente la seguridad, el desvío de tráfico para ciertas redes, acceso a diversos sitios de internet, restricciones necesarias para los diferentes tipos de usuarios, acceso a internet por medio de ethernet como por wifi entre otras configuraciones adecuadas para el diseño de la red empresarial que se ha llevado a cabo.
